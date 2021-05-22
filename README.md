@@ -22,7 +22,7 @@ Directories:  813
 Size:         1.227.079.350 bytes
 ```
 
-|Contenders    | Programming Languag|  Size bytes Linux |  Size Bytes Win10 | Repo|
+|Contenders    | Programming Language|  Size bytes Linux |  Size Bytes Win10 | Repo|
 |----------    | -------------------|  -----------------:| ---------------:|-----|
 |du/du64.exe   |  C/C++             |  105.640          |     465.784       | Linux: internal /usr/bin/du, Windows: https://docs.microsoft.com/en-us/sysinternals/downloads/du|
 |rdu-async-par |  Rust				|1.243.632			|	1.126.400    	| https://github.com/artempyanykh/rdu|
